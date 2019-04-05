@@ -3,13 +3,12 @@ import ReactTable from "react-table";
 import "react-table/react-table.css";
 import { Link } from "react-router-dom";
 
-import {
+import { 
     Badge,
     Card,
     CardBody,
     CardHeader,
     Col,
-    Pagination,
     PaginationItem,
     PaginationLink,
     Row,
