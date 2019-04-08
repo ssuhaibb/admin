@@ -266,8 +266,8 @@ export default {
       name: "Manage Sellzy"
     },
     {
-      name: "Buyers",
-      url: "/buyers",
+      name: "Users",
+      url: "/users",
       icon: "icon-star",
       // children: [
       //   {
